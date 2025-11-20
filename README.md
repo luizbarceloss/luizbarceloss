@@ -9,28 +9,31 @@
 - 🎓 **Third-semester Computer Science student** at the Catholic University of Brasília (UCB).
 - 💻 Focused on core programming logic and building my foundation in software development.
 
----
+<br />
 
 <div align="center">
-  <h2> 📈 GitHub Stats </h2>
+  <b style="font-size: 20px;">GitHub Stats 📈</b>
+  <br /> <br />
+
   <table border="0" width="100%">
     <tr>
       <td align="center" valign="middle" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=luizbarceloss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="160px" alt="Luiz Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=luizbarceloss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="140px" alt="Luiz Stats" />
         <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarceloss&layout=compact&langs_count=6&theme=dark" height="160px" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarceloss&layout=compact&langs_count=6&theme=dark" height="140px" alt="Top Languages" />
       </td>
       <td align="center" valign="middle" width="50%">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt1bWZ6b3lreWpnd2dyeDJtZWdmcTlyZ3gxMjlqdHNuN3JwZ2lpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRtZJvoWxWVJ7uF1cx/giphy.gif" height="330px" alt="GIF" style="border-radius: 10px;" />
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt1bWZ6b3lreWpnd2dyeDJtZWdmcTlyZ3gxMjlqdHNuN3JwZ2lpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRtZJvoWxWVJ7uF1cx/giphy.gif" height="255px" alt="GIF" style="border-radius: 10px;" />
       </td>
     </tr>
   </table>
 </div>
 
----
+<br />
 
 <div align="center">
-  <h2>Tools 🔨</h2>
+  <b style="font-size: 20px;">Tools 🔨</b>
+  <br /> <br />
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -44,10 +47,11 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
----
+<br />
 
 <div align="center">
-  <h2>Connect with Me 📍</h2>
+  <b style="font-size: 20px;">Connect with Me 📍</b>
+  <br /> <br />
   
   <a href="mailto:heenrique061@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -57,7 +61,7 @@
   </a>
 </div>
 
----
+<br />
 
 <div align="center">
   <picture>
