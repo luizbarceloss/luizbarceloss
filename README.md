@@ -12,7 +12,7 @@
 <br />
 
 <div align="center">
-  <b style="font-size: 20px;">GitHub Stats 📈</b>
+  <b style="font-size: 30px;">GitHub Stats 📈</b>
   <br /> <br />
 
   <table border="0" width="100%">
@@ -32,7 +32,7 @@
 <br />
 
 <div align="center">
-  <b style="font-size: 20px;">Tools 🔨</b>
+  <b style="font-size: 30px;">Tools 🔨</b>
   <br /> <br />
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -50,7 +50,7 @@
 <br />
 
 <div align="center">
-  <b style="font-size: 20px;">Connect with Me 📍</b>
+  <b style="font-size: 30px;">Connect with Me 📍</b>
   <br /> <br />
   
   <a href="mailto:heenrique061@gmail.com">
