@@ -1,25 +1,42 @@
 <div align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/qgM4UvP3dYlU7XmOQo/giphy.gif" width="50px">
     
-    # Olá Mundo, Eu sou Luiz Henrique! ✨
+    # Hello World, I'm Luiz Henrique! 🏆
 </div>
 
-- 🎓 Estudante do **terceiro semestre de Ciência da Computação** pela Universidade Católica de Brasília (UCB).
-- 💻 Focado em lógica de programação e em construir minha base em desenvolvimento.
+- 🎓 **Third-semester Computer Science student** at the Catholic University of Brasília (UCB).
+- 💻 Focused on core programming logic and building my foundation in software development.
 
 ---
 
 <div align="center">
-    ## 🔧 Habilidades e Contato
+    <h2> 📈 GitHub Stats </h2>
 </div>
 
 <div align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt1bWZ6b3lreWpnd2dyeDJtZWdmcTlyZ3gxMjlqdHNuN3JwZ2lpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRtZJvoWxWVJ7uF1cx/giphy.gif" alt="gif" width="250px" style="border-radius:10px;">
+    <table>
+        <tr>
+            <td align="center" width="33%">
+                <img src="https://github-readme-stats.vercel.app/api?username=luizbarceloss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Luiz Henrique's GitHub Stats" />
+            </td>
+            
+            <td align="center" width="33%">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarceloss&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
+            </td>
+
+            <td align="center" width="33%">
+                <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt1bWZ6b3lreWpnd2dyeDJtZWdmcTlyZ3gxMjlqdHNuN3JwZ2lpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRtZJvoWxWVJ7uF1cx/giphy.gif" alt="Animated Dev GIF" width="200px" style="border-radius:10px;">
+            </td>
+        </tr>
+    </table>
+</div>
+---
+
+<div align="center">
+    <h2> 🔧 Skills & Contact </h2>
 </div>
 
-<br>
-
-### Minhas Ferramentas 🚀
+### Tech Stack 🚀
 
 <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -32,16 +49,13 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/C%2F%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
-</p>
-
-<p align="center">
+    <img src="https://img.shields.io/badge/C%2F%2FC++-00599C?style=for-for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 ---
 
-### Onde me Encontrar 📍
+### Connect with Me 📍
 
 <p align="center">
     <a href="mailto:heenrique061@gmail.com">
@@ -55,23 +69,7 @@
 ---
 
 <div align="center">
-    ## 📈 Estatísticas do GitHub
+    <img src="https://github.com/luizbarceloss/luizbarceloss/blob/main/seu_grafico_pacman.png?raw=true" alt="Contribution Graph" />
 </div>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=luizbarceloss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do Luizbarceloss" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarceloss&layout=compact&langs_count=6&theme=dark" alt="Linguagens Mais Usadas" />
-</p>
-
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizbarceloss/luizbarceloss/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizbarceloss/luizbarceloss/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luizbarceloss/luizbarceloss/output/pacman-contribution-graph.svg">
-</picture>
-
-###
