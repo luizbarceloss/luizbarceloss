@@ -1,5 +1,8 @@
 <div align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/qgM4UvP3dYlU7XmOQo/giphy.gif" width="50px">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Luiz+Henrique;CS+Student+%40+UCB;Java+%7C+React+%7C+C%2B%2B" alt="Typing SVG" />
+  </a>
+</div>
 
 # Hello World, I'm Luiz Henrique! 🏆
 </div>
