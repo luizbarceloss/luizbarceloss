@@ -14,22 +14,15 @@
 </div>
 
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" width="33%">
-                <img src="https://github-readme-stats.vercel.app/api?username=luizbarceloss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Luiz Henrique's GitHub Stats" />
-            </td>
-            
-            <td align="center" width="33%">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarceloss&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
-            </td>
+    
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizbarceloss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Luiz Henrique's Stats" height="150px" /> 
 
-            <td align="center" width="33%">
-                <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt1bWZ6b3lreWpnd2dyeDJtZWdmcTlyZ3gxMjlqdHNuN3JwZ2lpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRtZJvoWxWVJ7uF1cx/giphy.gif" alt="Animated Dev GIF" width="200px" style="border-radius:10px;">
-            </td>
-        </tr>
-    </table>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarceloss&layout=compact&langs_count=6&theme=dark" alt="Top Languages" height="150px" />
+    
+    <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt1bWZ6b3lreWpnd2dyeDJtZWdmcTlyZ3gxMjlqdHNuN3JwZ2lpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRtZJvoWxWVJ7uF1cx/giphy.gif" alt="Animated Dev GIF" width="200px" height="150px" style="border-radius:10px;">
+    
 </div>
+
 ---
 
 <div align="center">
