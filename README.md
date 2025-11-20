@@ -11,12 +11,20 @@
 
 <div align="center">
 <h2> 📈 GitHub Stats </h2>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=luizbarceloss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="Luiz Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarceloss&layout=compact&langs_count=6&theme=dark" height="150" alt="Top Languages" />
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt1bWZ6b3lreWpnd2dyeDJtZWdmcTlyZ3gxMjlqdHNuN3JwZ2lpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRtZJvoWxWVJ7uF1cx/giphy.gif" height="150" alt="GIF" style="border-radius: 10px;" />
+<table border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=luizbarceloss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="165px" alt="Luiz Stats" />
+      <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbarceloss&layout=compact&langs_count=6&theme=dark" height="165px" alt="Top Languages" />
+    </td>
+
+    <td align="center" valign="middle">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt1bWZ6b3lreWpnd2dyeDJtZWdmcTlyZ3gxMjlqdHNuN3JwZ2lpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRtZJvoWxWVJ7uF1cx/giphy.gif" height="335px" alt="GIF" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
