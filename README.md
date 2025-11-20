@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/qgM4UvP3dYlU7XmOQo/giphy.gif" width="50px">
     
-    # Olá Mundo, Eu sou Luiz Henrique! ✨
+     Olá Mundo, Eu sou Luiz Henrique! ✨
 </div>
 
 - 🎓 Estudante do **terceiro semestre de Ciência da Computação** pela Universidade Católica de Brasília (UCB).
@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-    ## 📈 Estatísticas do GitHub
+     📈 Estatísticas do GitHub
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-    ## 🔧 Habilidades Técnicas (Stack)
+     🔧 Habilidades Técnicas (Stack)
 </div>
 
 <p align="center">
@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
-    ## 📧 Entre em Contato
+     📧 Entre em Contato
 </div>
 
 <p align="center">
