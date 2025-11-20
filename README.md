@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/qgM4UvP3dYlU7XmOQo/giphy.gif" width="50px">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt1bWZ6b3lreWpnd2dyeDJtZWdmcTlyZ3gxMjlqdHNuN3JwZ2lpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRtZJvoWxWVJ7uF1cx/giphy.gif" width="50px"> <img src="gif" width="50px">
     
     # Olá Mundo, Eu sou Luiz Henrique! ✨
 </div>
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.2lkPfc5Nl3UjGE/giphy.gif" alt="Seu GIF Animado" width="250px" style="border-radius:10px;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt1bWZ6b3lreWpnd2dyeDJtZWdmcTlyZ3gxMjlqdHNuN3JwZ2lpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jRtZJvoWxWVJ7uF1cx/giphy.gif" alt="gif" width="250px" style="border-radius:10px;">
 </div>
 
 <br>
@@ -67,3 +67,7 @@
 </p>
 
 ---
+
+<div align="center">
+    <img src="https://github.com/luizbarceloss/luizbarceloss/blob/main/seu_grafico_pacman.png?raw=true" alt="Gráfico de Contribuições do Luiz" />
+</div>
