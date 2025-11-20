@@ -12,8 +12,8 @@
 <br />
 
 <div align="center">
-  <b style="font-size: 100px;">GitHub Stats 📈</b>
-  <br /> <br />
+  <h2>GitHub Stats 📈</h2>
+  <br />
 
   <table border="0" width="100%">
     <tr>
@@ -32,8 +32,8 @@
 <br />
 
 <div align="center">
-  <b style="font-size: 100px;">Tools 🔨</b>
-  <br /> <br />
+  <h2>Tools 🔨</h2>
+  <br />
   
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -50,8 +50,8 @@
 <br />
 
 <div align="center">
-  <b style="font-size: 100px;">Connect with Me 📍</b>
-  <br /> <br />
+  <h2>Connect with Me 📍</h2>
+  <br />
   
   <a href="mailto:heenrique061@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
