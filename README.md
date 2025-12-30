@@ -6,7 +6,7 @@
   <h1>Hello World, I'm Luiz Henrique! 🏆</h1>
 </div>
 
-- 🎓 **Third-semester Computer Science student** at the Catholic University of Brasília (UCB).
+- 🎓 **Fourth-semester Computer Science student** at the Catholic University of Brasília (UCB).
 - 💻 Focused on core programming logic and building my foundation in software development.
 
 <br />
